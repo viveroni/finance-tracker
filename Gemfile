@@ -28,6 +28,7 @@ gem 'rails_12factor', '~> 0.0.3'
 gem 'devise', '~> 3.5', '>= 3.5.6'
 gem 'twitter-bootstrap-rails', '~> 3.2', '>= 3.2.2'
 gem 'devise-bootstrap-views', '~> 0.0.9'
+gem 'stock_quote', '~> 1.2', '>= 1.2.3'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
